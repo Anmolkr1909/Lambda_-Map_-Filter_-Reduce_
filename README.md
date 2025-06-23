@@ -1,1 +1,1 @@
-# Lambda_-Map_-Filter_-Reduce_ (mini_project)
+# Lambda_Map_Filter_-Reduce_ (mini_project)
